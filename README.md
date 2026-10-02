@@ -12,5 +12,6 @@ I trained in pharmacy, then public health and data science. I did not switch to 
 - [Renewables and urbanisation](https://github.com/DrPaulaEkene/The-Dynamics-of-Global-Environmental-Indicators-in-Climate-Change) : clustering and forecasting across 30 years of country data
 
 **Tools:** Python, SQL, Power BI, Microsoft Fabric, Excel, Tableau, SPSS
+**Elsewhere** https://www.linkedin.com/in/drpaulineekene/
 
 *I find the human story inside the data.*
